@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 1024,
+    "id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/images/Afiiche_voiture/canvas/",
+    "label" : {
+      "none" : [ "Afiiche_voiture" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/images/Afiiche_voiture/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/images/Afiiche_voiture/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 32,
+              "height" : 45
+            }, {
+              "width" : 64,
+              "height" : 89
+            }, {
+              "width" : 128,
+              "height" : 178
+            }, {
+              "width" : 256,
+              "height" : 356
+            }, {
+              "width" : 512,
+              "height" : 712
+            }, {
+              "width" : 1024,
+              "height" : 1423
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1024,
+            "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/images/Afiiche_voiture",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1423
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1024,
+          "id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/images/Afiiche_voiture/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1423
+        },
+        "target" : "https://ClaraHB98.github.io/IIIFEnglishclass1/images/Afiiche_voiture/canvas/"
+      } ]
+    } ],
+    "height" : 1423
+  }, {
+    "width" : 1024,
     "id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/images/Voiture4/canvas/",
     "label" : {
       "none" : [ "Voiture4" ]
