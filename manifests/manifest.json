@@ -59,7 +59,7 @@
     }, {
       "@id" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec",
       "@type" : "sc:Canvas",
-      "label" : "Electric_car",
+      "label" : "Electric_cars",
       "height" : 1054,
       "width" : 1408,
       "images" : [ {
