@@ -59,7 +59,7 @@
     }, {
       "@id" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec",
       "@type" : "sc:Canvas",
-      "label" : "Voiture_2",
+      "label" : "Electric_car",
       "height" : 1054,
       "width" : 1408,
       "images" : [ {
@@ -85,7 +85,7 @@
     }, {
       "@id" : "http://b2d35440-ced1-495d-bc49-30909df210f8",
       "@type" : "sc:Canvas",
-      "label" : "Voiture_3",
+      "label" : "Car_during_war",
       "height" : 1054,
       "width" : 1414,
       "images" : [ {
@@ -111,7 +111,7 @@
     }, {
       "@id" : "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd",
       "@type" : "sc:Canvas",
-      "label" : "Voiture_4",
+      "label" : "Citroens_industry",
       "height" : 1446,
       "width" : 1024,
       "images" : [ {
@@ -137,7 +137,7 @@
     }, {
       "@id" : "http://9e4f0528-b430-4c10-98ad-d8b4083467d3",
       "@type" : "sc:Canvas",
-      "label" : "Affiche_citroen",
+      "label" : "Citroens_poster",
       "height" : 1423,
       "width" : 1024,
       "images" : [ {
