@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ ],
+  "otherContent" : [ "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/l_obeissanteanno.json" ],
   "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/collection.json",
   "label" : "All annotations loaded in ClaraHB98/IIIFEnglishclass1 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
