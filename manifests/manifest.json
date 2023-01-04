@@ -76,12 +76,8 @@
         "@type" : "sc:AnnotationList",
         "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/75e5b0b6c8b721328dc8e3f619f80926.json",
         "label" : "Annotations for canvas L_Obeissante"
-      }, {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/75e5b0b6c8b721328dc8e3f619f80926.json",
-        "label" : "Annotations for canvas L_Obeissante"
-      } ]
-    }, {
+      }, 
+      {
       "@id" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec",
       "@type" : "sc:Canvas",
       "label" : "Electric_cars",
