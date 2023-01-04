@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest3.json",
   "@type" : "sc:Manifest",
-  "label" : "manifest",
+  "label" : "My manifest",
   "service" : [ {
     "profile" : "http://iiif.io/api/search/0/search",
     "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/119687553/a7d3809c8563d99f24c89ea3aa7a0252/search",
