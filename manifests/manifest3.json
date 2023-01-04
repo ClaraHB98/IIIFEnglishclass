@@ -76,11 +76,8 @@
         "@type" : "sc:AnnotationList",
         "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/75e5b0b6c8b721328dc8e3f619f80926.json",
         "label" : "Annotations for canvas L_Obeissante"
-      }, {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/75e5b0b6c8b721328dc8e3f619f80926.json",
-        "label" : "Annotations for canvas L_Obeissante"
-      } ]
+      }
+     ]
     }, {
       "@id" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec",
       "@type" : "sc:Canvas",
@@ -114,11 +111,8 @@
         "@type" : "sc:AnnotationList",
         "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/9ff81214e39554a8557e1834a998f378.json",
         "label" : "Annotations for canvas Electric_cars"
-      }, {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/9ff81214e39554a8557e1834a998f378.json",
-        "label" : "Annotations for canvas Electric_cars"
-      } ]
+      }
+     ]
     }, {
       "@id" : "http://b2d35440-ced1-495d-bc49-30909df210f8",
       "@type" : "sc:Canvas",
@@ -152,11 +146,8 @@
         "@type" : "sc:AnnotationList",
         "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/d9e2cdc7d91c7c1ac9dd096e50419a52.json",
         "label" : "Annotations for canvas Car_during_war"
-      }, {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/d9e2cdc7d91c7c1ac9dd096e50419a52.json",
-        "label" : "Annotations for canvas Car_during_war"
-      } ]
+      }
+     ]
     }, {
       "@id" : "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd",
       "@type" : "sc:Canvas",
@@ -190,11 +181,8 @@
         "@type" : "sc:AnnotationList",
         "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/fc72b7f4f56e0047fc9038ed64190008.json",
         "label" : "Annotations for canvas Citroens_industry"
-      }, {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/fc72b7f4f56e0047fc9038ed64190008.json",
-        "label" : "Annotations for canvas Citroens_industry"
-      } ]
+      }
+     ]
     }, {
       "@id" : "http://9e4f0528-b430-4c10-98ad-d8b4083467d3",
       "@type" : "sc:Canvas",
@@ -228,11 +216,8 @@
         "@type" : "sc:AnnotationList",
         "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/6e2fba5444c9a0a167800b367cbc00c7.json",
         "label" : "Annotations for canvas Citroens_poster"
-      }, {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/6e2fba5444c9a0a167800b367cbc00c7.json",
-        "label" : "Annotations for canvas Citroens_poster"
-      } ]
+      }
+     ]
     } ]
   } ],
   "structures" : [ {
