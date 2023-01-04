@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest.json",
+  "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest3.json",
   "@type" : "sc:Manifest",
   "label" : "My manifest",
   "service" : [ {
