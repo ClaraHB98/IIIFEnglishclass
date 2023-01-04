@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/l_obeissanteanno.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/electriccar.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/Carduringwaranno.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/Citroensindustryanno.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/Citroensposteranno.json" ],
+  "otherContent" : [ "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/electriccar.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/Carduringwaranno.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/Citroensindustryanno.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/Citroensposteranno.json" ],
   "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/collection.json",
   "label" : "All annotations loaded in ClaraHB98/IIIFEnglishclass1 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
