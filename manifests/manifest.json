@@ -216,19 +216,19 @@
   "structures" : [ {
     "@id" : "https://iiif.wellcomecollection.org/presentation/b18035723/ranges/LOG_0001",
     "@type" : "sc:Range",
-    "label" : "Les débuts de l'automobile",
+    "label" : "The beggining of the automobile",
     "canvases" : [ "http://c9e62390-1c34-4597-950b-200817ca11df" ],
     "within" : ""
   }, {
     "@id" : "https://iiif.wellcomecollection.org/presentation/b18035723/ranges/LOG_0003",
     "@type" : "sc:Range",
-    "label" : "L'arrivée de la voiture électrique",
+    "label" : "Elctric cars arrival",
     "canvases" : [ "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec" ],
     "within" : ""
   }, {
     "@id" : "https://iiif.wellcomecollection.org/presentation/b18035723/ranges/LOG_0002",
     "@type" : "sc:Range",
-    "label" : "Industrialisation et commercialisation",
+    "label" : "Industrialization and commercialization",
     "canvases" : [ "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd" ],
     "within" : ""
   } ]
