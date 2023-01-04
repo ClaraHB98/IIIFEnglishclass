@@ -35,7 +35,7 @@
   } ],
   "viewingHint" : "paged",
   "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "attribution" : "Provided by Gallica BnF",
+  "attribution" : "Provided by Gallica BnF / pictures from Roll and Meurisse photography agencies",
   "sequences" : [ {
     "@id" : "http://338680a2-2ab7-47e4-a95e-6cb90b0c9937",
     "@type" : "sc:Sequence",
