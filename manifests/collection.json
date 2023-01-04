@@ -17,9 +17,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest2.json",
     "label" : "manifest"
-  }, {
-    "@type" : "sc:AnnotationList",
-    "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/l_obeissanteanno.json",
-    "label" : null
   } ]
 }
