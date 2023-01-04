@@ -23,8 +23,8 @@
     } ]
   } ],
   "description" : [ {
-    "@value" : "Ce projet représente une série évolutive de photographies autour de l'arrivée de l'automobile, de sa fabrication et de sa commercialisation en France.",
-    "@language" : "fr"
+    "@value" : "This project is composed of five images related to the car’s evolution in France between the late XIXth century and the Citroën's model industry apparition during the interwar period.",
+    "@language" : "en"
   } ],
   "viewingHint" : "paged",
   "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
