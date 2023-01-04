@@ -178,7 +178,7 @@
     "@id" : "https://iiif.wellcomecollection.org/presentation/b18035723/ranges/LOG_0002",
     "@type" : "sc:Range",
     "label" : "Industrialisation et commercialisation",
-    "canvases" : [ "http://9e4f0528-b430-4c10-98ad-d8b4083467d3" ],
+    "canvases" : [ "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd" ],
     "within" : ""
   } ]
 }
