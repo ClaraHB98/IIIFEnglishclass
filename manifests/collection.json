@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest.json",
     "label" : "manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest3.json",
+    "label" : "manifest"
   } ]
 }
