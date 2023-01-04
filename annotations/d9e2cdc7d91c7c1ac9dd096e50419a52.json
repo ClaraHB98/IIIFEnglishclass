@@ -35,7 +35,7 @@
     } ]
   }, {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "War material send to the firstline troups&nbsp;",
+      "http://dev.llgc.org.uk/sas/full_text" : "War material sent to the firstline troups&nbsp;",
       "@type" : "dctypes:Text",
       "format" : "text/html",
       "chars" : "<p>War material send to the firstline troups&nbsp;</p>"
