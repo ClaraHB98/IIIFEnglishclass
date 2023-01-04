@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/75e5b0b6c8b721328dc8e3f619f80926.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/9ff81214e39554a8557e1834a998f378.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/d9e2cdc7d91c7c1ac9dd096e50419a52.json" ],
+  "otherContent" : [ "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/75e5b0b6c8b721328dc8e3f619f80926.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/9ff81214e39554a8557e1834a998f378.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/d9e2cdc7d91c7c1ac9dd096e50419a52.json", "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/fc72b7f4f56e0047fc9038ed64190008.json" ],
   "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/collection.json",
   "label" : "All annotations loaded in ClaraHB98/IIIFEnglishclass1 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
