@@ -1,0 +1,90 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cars making in the assembly line",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cars making in the assembly line</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119687553",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-04T14:17:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672841878287",
+    "dcterms:modified" : "2023-01-04T14:17:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=156,553,246,597"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M155.7668,1044.28651c-1.72472,54.55768 6.53117,98.24998 26.85075,104.72913v0v0c20.31958,6.47915 49.18934,-22.63787 82.82411,-69.49331c33.63477,-46.85544 65.76908,-124.39643 90.28022,-203.00751c24.51115,-78.61109 41.39914,-158.29228 44.85141,-217.60267c3.45227,-59.31039 -6.53117,-98.24998 -26.85075,-104.72913c-20.31958,-6.47915 -50.9753,19.50215 -82.82411,69.49331c-31.84881,49.99116 -64.8907,123.99218 -90.28022,203.00751c-25.38953,79.01533 -43.12669,163.04498 -44.85141,217.60267z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:17.81092519637328,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_1f9e350a-24cc-4ba3-b85e-c32b5b13f30d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=505,560,248,562"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M505.83007,661.2906c-3.3092,-51.86753 3.26087,-93.73531 22.50444,-100.59755v0v0c19.24357,-6.86224 47.74992,19.86233 81.3546,63.30676c33.60467,43.44443 66.70693,116.14591 92.54834,190.12683c25.84141,73.98092 44.42196,149.24128 49.52852,205.57318c5.10656,56.33189 -3.26087,93.73531 -22.50444,100.59755c-19.24357,6.86224 -49.36328,-16.8167 -81.3546,-63.30676c-31.99132,-46.49005 -65.85426,-115.79122 -92.54834,-190.12683c-26.69408,-74.33561 -46.21931,-153.70565 -49.52852,-205.57318z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:-19.750774774450257,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_2b49a4fb-3710-4e88-b543-1104f83192e5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Citroen's industry based in Javel in the XVth district of Paris, South-West&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Citroen's industry based in Javel in the XVth district of Paris, South-West&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119687553",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-04T13:49:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672840150112",
+    "dcterms:modified" : "2023-01-04T13:51:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=225,138,424,88"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M225.26132,138.3597h211.92183v0h211.92183v43.7691v43.7691h-211.92183h-211.92183v-43.7691z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_b62c35f2-2a9f-4247-b3cd-e2fb18d4d9d9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.942\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd"
+    } ]
+  } ],
+  "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/Citroensindustryanno.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
