@@ -3,11 +3,15 @@
   "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "manifest",
-  "service" : {
+  "service" : [ {
     "profile" : "http://iiif.io/api/search/0/search",
     "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/119687553/a7d3809c8563d99f24c89ea3aa7a0252/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
-  },
+  }, {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/119687553/a7d3809c8563d99f24c89ea3aa7a0252/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  } ],
   "metadata" : [ {
     "label" : "Author",
     "value" : "Clara Hermant-Bertoni"
@@ -64,6 +68,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "L'Obeissante annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/75e5b0b6c8b721328dc8e3f619f80926.json",
+        "label" : "Annotations for canvas L_Obeissante"
       } ]
     }, {
       "@id" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec",
@@ -94,6 +102,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "Electric car annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/9ff81214e39554a8557e1834a998f378.json",
+        "label" : "Annotations for canvas Electric_cars"
       } ]
     }, {
       "@id" : "http://b2d35440-ced1-495d-bc49-30909df210f8",
@@ -124,6 +136,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "During war annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/d9e2cdc7d91c7c1ac9dd096e50419a52.json",
+        "label" : "Annotations for canvas Car_during_war"
       } ]
     }, {
       "@id" : "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd",
@@ -154,6 +170,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "Citroens industry annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/fc72b7f4f56e0047fc9038ed64190008.json",
+        "label" : "Annotations for canvas Citroens_industry"
       } ]
     }, {
       "@id" : "http://9e4f0528-b430-4c10-98ad-d8b4083467d3",
@@ -184,6 +204,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "Citroens poster annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/6e2fba5444c9a0a167800b367cbc00c7.json",
+        "label" : "Annotations for canvas Citroens_poster"
       } ]
     } ]
   } ],
