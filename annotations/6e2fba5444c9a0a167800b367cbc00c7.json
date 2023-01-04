@@ -38,7 +38,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "\"The factory of the Andr&eacute; Citro&euml;n's establishments lays X cars a day\"",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>\"The factory of the Andr&eacute; Citro&euml;n's establishments lays X cars a day\"</p>"
+      "chars" : "<p>\"The factory of the Andr&eacute; Citro&euml;n's establishments lays X 10 HP cars a day\"</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119687553",
