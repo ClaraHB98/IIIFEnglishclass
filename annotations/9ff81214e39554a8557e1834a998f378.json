@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This swan in flowers was made for La f&ecirc;te des Fleurs, a traditional celebration in the North-East of France, during the XXth century",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This swan in flowers was made for <em>La f&ecirc;te des Fleurs</em>, a traditional celebration in the North-East of France, during the XXth century</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119687553",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-04T12:53:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672836809319",
+    "dcterms:modified" : "2023-01-04T12:54:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=197,301,44,103"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M203.98575,388.64675c4.10084,8.62399 9.88575,15.04598 15.69869,15.03831v0v0c5.81294,-0.00767 10.87698,-6.01534 15.69869,-15.03831c4.82171,-9.02297 6.69584,-22.77223 6.50261,-36.3057c-0.19323,-13.53347 -2.45383,-26.85115 -6.50261,-36.3057c-4.04878,-9.45455 -9.88575,-15.04598 -15.69869,-15.03831c-5.81294,0.00767 -11.60185,5.61445 -15.69869,15.03831c-4.09684,9.42386 -6.50161,22.66481 -6.50261,36.3057c-0.001,13.64089 2.40177,27.68171 6.50261,36.3057z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_ede27c80-0647-45a6-957f-f8de9d853a59\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.34915\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "One of the first electric car, with front engine",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>One of the first electric car, with front engine</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119687553",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-01-04T12:51:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672836715775",
+    "dcterms:modified" : "2023-01-04T12:51:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=513,606,171,121"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M513.29721,727.73189h85.38586v0h85.38586v-60.74575v-60.74575h-85.38586h-85.38586v60.74575z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c3fdb269-6606-4f32-952e-ecdefec9a175\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec"
+    } ]
+  } ],
+  "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/annotations/9ff81214e39554a8557e1834a998f378.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
