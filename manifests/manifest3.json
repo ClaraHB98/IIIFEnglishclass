@@ -7,15 +7,8 @@
     "profile" : "http://iiif.io/api/search/0/search",
     "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/119687553/a7d3809c8563d99f24c89ea3aa7a0252/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
-  }, {
-    "profile" : "http://iiif.io/api/search/0/search",
-    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/119687553/a7d3809c8563d99f24c89ea3aa7a0252/search",
-    "@context" : "http://iiif.io/api/search/0/context.json"
-  }, {
-    "profile" : "http://iiif.io/api/search/0/search",
-    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/119687553/a7d3809c8563d99f24c89ea3aa7a0252/search",
-    "@context" : "http://iiif.io/api/search/0/context.json"
-  } ],
+  }
+   ],
   "metadata" : [ {
     "label" : "Author",
     "value" : "Clara Hermant-Bertoni"
