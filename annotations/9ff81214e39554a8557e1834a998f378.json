@@ -2,10 +2,10 @@
   "@type" : "sc:AnnotationList",
   "resources" : [ {
     "resource" : [ {
-      "http://dev.llgc.org.uk/sas/full_text" : "This swan in flowers was made for La f&ecirc;te des Fleurs, a traditional celebration in the North-East of France, during the XXth century",
+      "http://dev.llgc.org.uk/sas/full_text" : "This swan in flowers was made for La f&ecirc;te des Fleurs, a traditional celebration in the North-East of France during the XXth century",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>This swan in flowers was made for <em>La f&ecirc;te des Fleurs</em>, a traditional celebration in the North-East of France, during the XXth century</p>"
+      "chars" : "<p>This swan in flowers was made for <em>La f&ecirc;te des Fleurs</em>, a traditional celebration in the North-East of France during the XXth century</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/119687553",
