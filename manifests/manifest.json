@@ -132,7 +132,7 @@
         "on" : "http://b2d35440-ced1-495d-bc49-30909df210f8"
       } ],
       "otherContent" : [ {
-        "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
+        "@id" : "https://iiif-test.github.io/BLJan2022/annotations/d9e2cdc7d91c7c1ac9dd096e50419a52.json",
         "@type" : "sc:AnnotationList",
         "label" : "During war annotations"
       }, {
