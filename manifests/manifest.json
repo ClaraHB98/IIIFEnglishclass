@@ -97,7 +97,7 @@
         "on" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec"
       } ],
       "otherContent" : [ {
-        "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
+        "@id" : "https://iiif-test.github.io/BLJan2022/annotations/9ff81214e39554a8557e1834a998f378.json",
         "@type" : "sc:AnnotationList",
         "label" : "Electric car annotations"
       }, {
@@ -167,7 +167,7 @@
         "on" : "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd"
       } ],
       "otherContent" : [ {
-        "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
+        "@id" : "https://iiif-test.github.io/BLJan2022/annotations/fc72b7f4f56e0047fc9038ed64190008.json",
         "@type" : "sc:AnnotationList",
         "label" : "Citroens industry annotations"
       }, {
@@ -202,7 +202,7 @@
         "on" : "http://9e4f0528-b430-4c10-98ad-d8b4083467d3"
       } ],
       "otherContent" : [ {
-        "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
+        "@id" : "https://iiif-test.github.io/BLJan2022/annotations/6e2fba5444c9a0a167800b367cbc00c7.json",
         "@type" : "sc:AnnotationList",
         "label" : "Citroens poster annotations"
       }, {
