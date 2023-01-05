@@ -2,12 +2,12 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://ClaraHB98.github.io/IIIFEnglishclass1/manifests/manifest2.json",
   "@type" : "sc:Manifest",
-  "label" : "manifest",
-  "service" : {
+  "label" : "My manifest",
+  "service" : [ {
     "profile" : "http://iiif.io/api/search/0/search",
     "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/119687553/a7d3809c8563d99f24c89ea3aa7a0252/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
-  },
+  } ],
   "metadata" : [ {
     "label" : "Author",
     "value" : "Clara Hermant-Bertoni"
@@ -22,12 +22,12 @@
     } ]
   } ],
   "description" : [ {
-    "@value" : "Ce projet représente une série évolutive de photographies autour de l'arrivée de l'automobile, de sa fabrication et de sa commercialisation en France.",
-    "@language" : "fr"
+    "@value" : "This project is composed of five images related to the car’s evolution in France between the late XIXth century and the Citroën's model industry apparition during the interwar period.",
+    "@language" : "en"
   } ],
   "viewingHint" : "paged",
   "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-  "attribution" : "Provided by Gallica BnF",
+  "attribution" : "Provided by Gallica BnF / Pictures from Meurisse and Roll photography agencies",
   "sequences" : [ {
     "@id" : "http://338680a2-2ab7-47e4-a95e-6cb90b0c9937",
     "@type" : "sc:Sequence",
@@ -64,6 +64,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "L'Obeissante annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/75e5b0b6c8b721328dc8e3f619f80926.json",
+        "label" : "Annotations for canvas L_Obeissante"
       } ]
     }, {
       "@id" : "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec",
@@ -94,6 +98,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "Electric car annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/9ff81214e39554a8557e1834a998f378.json",
+        "label" : "Annotations for canvas Electric_cars"
       } ]
     }, {
       "@id" : "http://b2d35440-ced1-495d-bc49-30909df210f8",
@@ -124,6 +132,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "During war annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/d9e2cdc7d91c7c1ac9dd096e50419a52.json",
+        "label" : "Annotations for canvas Car_during_war"
       } ]
     }, {
       "@id" : "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd",
@@ -154,6 +166,10 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "Citroens industry annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/fc72b7f4f56e0047fc9038ed64190008.json",
+        "label" : "Annotations for canvas Citroens_industry"
       } ]
     }, {
       "@id" : "http://9e4f0528-b430-4c10-98ad-d8b4083467d3",
@@ -184,25 +200,29 @@
         "@id" : "https://iiif-test.github.io/BLJan2022/annotations/75e5b0b6c8b721328dc8e3f619f80926.json",
         "@type" : "sc:AnnotationList",
         "label" : "Citroens poster annotations"
+      }, {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/119687553/6e2fba5444c9a0a167800b367cbc00c7.json",
+        "label" : "Annotations for canvas Citroens_poster"
       } ]
     } ]
   } ],
   "structures" : [ {
     "@id" : "https://iiif.wellcomecollection.org/presentation/b18035723/ranges/LOG_0001",
     "@type" : "sc:Range",
-    "label" : "Les débuts de l'automobile",
+    "label" : "The beggining of the automobile",
     "canvases" : [ "http://c9e62390-1c34-4597-950b-200817ca11df" ],
     "within" : ""
   }, {
     "@id" : "https://iiif.wellcomecollection.org/presentation/b18035723/ranges/LOG_0003",
     "@type" : "sc:Range",
-    "label" : "L'arrivée de la voiture électrique",
+    "label" : "Elctric cars arrival",
     "canvases" : [ "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec" ],
     "within" : ""
   }, {
     "@id" : "https://iiif.wellcomecollection.org/presentation/b18035723/ranges/LOG_0002",
     "@type" : "sc:Range",
-    "label" : "Industrialisation et commercialisation",
+    "label" : "Industrialization and commercialization",
     "canvases" : [ "http://9ecffb6a-a6f2-4e63-89db-0cdc5644e9dd" ],
     "within" : ""
   } ]
