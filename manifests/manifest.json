@@ -216,7 +216,7 @@
   }, {
     "@id" : "https://iiif.wellcomecollection.org/presentation/b18035723/ranges/LOG_0003",
     "@type" : "sc:Range",
-    "label" : "Elctric cars arrival",
+    "label" : "Electric cars arrival",
     "canvases" : [ "http://3908706b-9d72-409d-931d-bb9f4ea1a9ec" ],
     "within" : ""
   }, {
